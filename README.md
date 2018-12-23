@@ -1,2 +1,2 @@
-# mldl_basic
-for exercise
+# machine learning/deep learning basic
+for lecture exercise
