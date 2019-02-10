@@ -1,2 +1,2 @@
 # machine learning/deep learning basic
-for lecture exercise
+사내 공유 교육자료
